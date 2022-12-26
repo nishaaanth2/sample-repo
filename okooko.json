@@ -1,0 +1,71 @@
+[
+    {
+        "job_id": 1,
+        "name": "Frontend Developer",
+        "jd_pdf": "dssddd",
+        "role": "dd",
+        "count": 22,
+        "createdAt": "2022-12-19T11:03:15.301Z",
+        "updatedAt": "2022-12-19T11:03:15.301Z",
+        "id": "63a044f397f2187d54b1a97a"
+        "candidates": [
+    {
+        "candidate_id": 12,
+        "status": 0,
+        "result": 0,
+        "name": "name",
+        "email": "Asdfasdfsdfs",
+        "ph_no": "+9112345676",
+        "job_id": 1,
+        "skill": "Asdfas",
+        "experience": "2",
+        "language": "n4",
+        "excepted_CTC": "sadfsdaf",
+        "resume_link": "asdfasdfsadfsa",
+        "current_company": "asdfas",
+        "current_ctc": "asd",
+        "current_location": "lol",
+        "notice_period": "Sasd",
+        "highest_education": "sd",
+        "relavent_exp_years": 0,
+        "createdAt": "2022-12-25T19:04:52.994Z",
+        "updatedAt": "2022-12-25T19:04:52.994Z",
+        "id": "63a89ed4b5bcdf605dd9f5c4",
+      "candidates": null
+    }
+]
+    },
+    {
+        "job_id": 2,
+        "name": "Backend Developer",
+        "jd_pdf": "dssddd",
+        "role": "dd",
+        "count": 22,
+        "createdAt": "2022-12-19T11:03:15.638Z",
+        "updatedAt": "2022-12-19T11:03:15.638Z",
+        "id": "63a044f397f2187d54b1a97c",
+      "candidates":null
+    },
+    {
+        "job_id": 3,
+        "name": "ReactJS Developer",
+        "jd_pdf": "dssddd",
+        "role": "dd",
+        "count": 22,
+        "createdAt": "2022-12-19T11:03:16.201Z",
+        "updatedAt": "2022-12-19T11:03:16.201Z",
+        "id": "63a044f497f2187d54b1a97e",
+      "candidates": null
+    },
+    {
+        "job_id": 4,
+        "name": "Tester",
+        "jd_pdf": "dssddd",
+        "role": "dd",
+        "count": 22,
+        "createdAt": "2022-12-22T05:33:44.946Z",
+        "updatedAt": "2022-12-22T05:33:44.946Z",
+        "id": "63a3ec38f781f2b37328a6b4",
+      "candidates": null
+    }
+]
