@@ -1,6 +1,6 @@
 [
   {
-    id: uuid(),
+    id: 1,
       city: 'Python Developer',
       street: '2849 Fulton Street',
     avatarUrl: '/static/images/avatars/avatar_3.png',
@@ -10,7 +10,7 @@
     phone: '8 years'
   },
   {
-    id: uuid(),
+    id: 2,
       city: 'MERN Stack Developer',
       street: '1865  Pleasant Hill Road'
     ,
@@ -21,7 +21,7 @@
     phone: '8 years'
   },
   {
-    id: uuid(),
+    id: 3,
       city: 'Atlanta',
       street: '4894  Lakeland Park Drive'
     ,
@@ -32,7 +32,7 @@
     phone: '8 years'
   },
   {
-    id: uuid(),
+    id: 4,
       city: 'Java Developer',
       street: '4158  Hedge Street'
     ,
@@ -43,7 +43,7 @@
     phone: '7 years'
   },
   {
-    id: uuid(),
+    id: 5,
       city: 'Oracle',
       street: '75247'
     ,
@@ -54,7 +54,7 @@
     phone: '972-333-4106'
   },
   {
-    id: uuid(),
+    id: 6,
       city: 'Bakerfield',
       street: '317 Angus Road'
     ,
@@ -65,7 +65,7 @@
     phone: '858-602-3409'
   },
   {
-    id: uuid(),
+    id: 7,
       city: 'Redondo Beach',
       street: '2188  Armbrester Drive'
     ,
@@ -76,7 +76,7 @@
     phone: '415-907-2647'
   },
   {
-    id: uuid(),
+    id: 8,
       city: 'Las Vegas',
       street: '1798  Hickory Ridge Drive'
     ,
@@ -87,7 +87,7 @@
     phone: '702-661-1654'
   },
   {
-    id: uuid(),
+    id: 9,
       city: 'Detroit',
       street: '3934  Wildrose Lane'
     ,
@@ -98,7 +98,7 @@
     phone: '313-812-8947'
   },
   {
-    id: uuid(),
+    id: 10,
       city: 'Salt Lake City',
       street: '368 Lamberts Branch Road',
     avatarUrl: '/static/images/avatars/avatar_10.png',
