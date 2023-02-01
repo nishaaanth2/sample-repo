@@ -1,0 +1,42 @@
+[
+    {
+        "candidateName": 'Dusty',
+        "lastName": 'Kuvalis',
+        "email": 'randy63@yahoo.com',
+        "phone": '9876543210',
+        "jobTitle": 'Chief Creative Technician',
+        "salary": 'Rejected',
+        "startDate": '3/20/2014',
+        "signatureCatchPhrase": 'Cross-platform disintermediate workforce',
+        "avatar": 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/106.jpg',
+        "exp":"4 years",
+        "lang":"n4",
+        'expectedCTC':"6.5Mn"
+    },{
+        "candidateName": 'Dusty',
+        "lastName": 'Kuvalis',
+        "email": 'randy63@yahoo.com',
+        "phone": '9876543210',
+        "jobTitle": 'Chief Creative Technician',
+        "salary": 'Rejected',
+        "startDate": '3/20/2014',
+        "signatureCatchPhrase": 'Cross-platform disintermediate workforce',
+        "avatar": 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/106.jpg',
+        "exp":"4 years",
+        "lang":"n4",
+        'expectedCTC':"6.5Mn"
+    },{
+        "candidateName": 'Dusty',
+        "lastName": 'Kuvalis',
+        "email": 'randy63@yahoo.com',
+        "phone": '9876543210',
+        "jobTitle": 'Chief Creative Technician',
+        "salary": 'Rejected',
+        "startDate": '3/20/2014',
+        "signatureCatchPhrase": 'Cross-platform disintermediate workforce',
+        "avatar": 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/106.jpg',
+        "exp":"4 years",
+        "lang":"n4",
+        'expectedCTC':"6.5Mn"
+    },
+   ]
