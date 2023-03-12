@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1786,
+        "date": "2023-03-11T20:24:57",
+        "date_gmt": "2023-03-11T20:24:57",
+        "guid": {
+            "rendered": "https:\/\/scene.elementor.cloud\/?post_type=mep_events&#038;p=1786"
+        },
+        "modified": "2023-03-11T20:26:26",
+        "modified_gmt": "2023-03-11T20:26:26",
+        "slug": "test",
+        "status": "publish",
+        "type": "mep_events",
+        "link": "https:\/\/scene.elementor.cloud\/event\/test\/",
+        "title": {
+            "rendered": "test"
+        },
+        "content": {
+            "rendered": "<p>hjbjh<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>hjbjh<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 0,
+        "template": "",
+        "mep_cat": [],
+        "mep_org": [],
+        "event_informations": {
+            "event_feature_image": "https:\/\/scene.elementor.cloud\/wp-content\/uploads\/2023\/02\/carla-oliveira-21FqSKZQGzI-unsplash-scaled.jpg"
+        }
+    },
+    {
+        "id": 689,
+        "date": "2023-02-22T05:46:04",
+        "date_gmt": "2023-02-22T05:46:04",
+        "guid": {
+            "rendered": "https:\/\/scene.elementor.cloud\/?post_type=mep_events&#038;p=689"
+        },
+        "modified": "2023-03-11T20:24:10",
+        "modified_gmt": "2023-03-11T20:24:10",
+        "slug": "basketball",
+        "status": "publish",
+        "type": "mep_events",
+        "link": "https:\/\/scene.elementor.cloud\/event\/basketball\/",
+        "title": {
+            "rendered": "Live Music"
+        },
+        "content": {
+            "rendered": "<p>Play Up<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Play Up<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 0,
+        "template": "",
+        "mep_cat": [],
+        "mep_org": [],
+        "event_informations": {
+            "event_feature_image": "https:\/\/scene.elementor.cloud\/wp-content\/uploads\/2023\/02\/aleksandr-popov-3-Kh6XSu9XQ-unsplash-scaled.jpg"
+        }
+    },
+    {
+        "id": 609,
+        "date": "2023-02-21T13:07:42",
+        "date_gmt": "2023-02-21T13:07:42",
+        "guid": {
+            "rendered": "https:\/\/scene.elementor.cloud\/?post_type=mep_events&#038;p=609"
+        },
+        "modified": "2023-03-02T07:45:09",
+        "modified_gmt": "2023-03-02T07:45:09",
+        "slug": "snooker",
+        "status": "publish",
+        "type": "mep_events",
+        "link": "https:\/\/scene.elementor.cloud\/event\/snooker\/",
+        "title": {
+            "rendered": "SNOOKER"
+        },
+        "content": {
+            "rendered": "<p>Play snooker at Besant Nagar<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Play snooker at Besant Nagar<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 581,
+        "template": "",
+        "mep_cat": [],
+        "mep_org": [],
+        "event_informations": {
+            "event_feature_image": "https:\/\/scene.elementor.cloud\/wp-content\/uploads\/2023\/02\/carla-oliveira-21FqSKZQGzI-unsplash-scaled.jpg"
+        }
+    }
+]
