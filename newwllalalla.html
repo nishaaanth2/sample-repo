@@ -1,0 +1,131 @@
+
+<style>
+    .mySlides {display: none;}
+    
+    .gif-cont{
+        position: absolute;
+    }
+    
+    .main-container{
+        position: relative;
+        width: auto;
+        height: a;
+    }
+    .inside-img{
+        border-radius: 25px;
+        width: 100%;
+        height: 100%;
+    }
+    /* Slideshow container */
+    .slideshow-container {
+      width: 530px;
+      height: 282px;
+      top: 300;
+      left: 45;
+      position: absolute;
+      margin: auto;
+    }
+    
+    
+    
+    /* The dots/bullets/indicators */
+    .dot {
+      height: 15px;
+      width: 15px;
+      margin: 0 2px;
+      background-color: #bbb;
+      border-radius: 50%;
+      display: inline-block;
+      transition: background-color 0.6s ease;
+    }
+    
+    .active {
+      background-color: #717171;
+    }
+    
+    /* Fading animation */
+    .fade {
+      animation-name: fade;
+      animation-duration: 1.5s;
+    }
+    
+    @keyframes fade {
+      from {opacity: .4} 
+      to {opacity: 1}
+    }
+    
+    
+    </style>
+    <div class="main-container">
+        <img class="gif-cont" id="giffy" src="hello.gif" alt/>
+
+    <div class="slideshow-container">
+    
+    <div class="mySlides fade">
+        <a id="item_1" >
+      <img class="inside-img" id="img_1" >
+    </a>
+    </div>
+    
+    <div class="mySlides fade">
+        <a id="item_2" >
+      <img class="inside-img" id="img_2" >
+      </a>
+    </div>
+    
+    <div class="mySlides fade">
+        <a id="item_3" >
+      <img class="inside-img" id="img_3" >
+      </a>
+    </div>
+    
+    </div>
+    <br>
+    
+    <div style="  visibility: hidden;">
+      <span class="dot"></span> 
+      <span class="dot"></span> 
+      <span class="dot"></span> 
+    </div>
+    
+    <script>
+    let slideIndex = 0;
+    showSlides();
+    
+    function showSlides() {
+      let i;
+      let slides = document.getElementsByClassName("mySlides");
+      let dots = document.getElementsByClassName("dot");
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";  
+      }
+      slideIndex++;
+      if (slideIndex > slides.length) {slideIndex = 1}    
+      for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";  
+      dots[slideIndex-1].className += " active";
+      setTimeout(showSlides, 2000); // Change image every 2 seconds
+    }
+    
+    const url = 'https://asdadfasdss.free.beeceptor.com';
+    
+    fetch(url)
+    .then((resp) => resp.json())
+    .then(function(data) {
+      let authors = data;
+      document.getElementById("item_1").href = "http://www.scenebooking.com/events/"+authors[0].slug;
+        document.getElementById("item_2").href = "http://www.scenebooking.com/events/"+authors[1].slug;
+        document.getElementById("item_3").href = "http://www.scenebooking.com/events/"+authors[2].slug;
+        document.getElementById("img_1").src = authors[0].event_informations.event_feature_image;
+        document.getElementById("img_2").src = authors[1].event_informations.event_feature_image;
+        document.getElementById("img_3").src = authors[2].event_informations.event_feature_image;
+    
+    })
+    .catch(function(error) {
+      console.log(error);
+    })
+    </script>
+    
+    
