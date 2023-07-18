@@ -1,0 +1,15 @@
+{
+  "columns": [
+    "COMPany name", 
+    "Location", 
+    "year of Business."
+  ], 
+  "rows": [
+    {
+      "COMPany name": "Anyware Labs", 
+      "Location": "cherrai", 
+      "id": 0, 
+      "year of Business.": "12"
+    }
+  ]
+}
