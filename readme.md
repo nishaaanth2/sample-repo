@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>The Humorous Hideaway of Code Capers</title>
-</head>
 <body>
   <h2>🕵️‍♂️🧪 The Humorous Hideaway of Code Capers 🕵️‍♂️🧪</h2>
   <p>Welcome to the clandestine realm of wackiness and wires, where code takes a comedic twist and bugs moonlight as stand-up comedians! 🎩🐞 Prepare for a delightful dance of logic loops and syntax errors – they're just trying to break it down on the digital dance floor! 💃💥</p>
