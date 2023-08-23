@@ -3,5 +3,10 @@
   "symbol":"AMD",
   "country":"US",
   "email":["asd@gmail.com","blah@gmail.com"],
+},
+{
+  "symbol":"AAPL",
+  "country":"US",
+  "email":["asd@gmail.com","blah@gmail.com"],
 }
 ]
