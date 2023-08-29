@@ -1,0 +1,1094 @@
+[
+    {
+        "notificationId": 413267,
+        "title": "SELL Alert (AAPL)",
+        "content": "Consider selling your holdings in AAPL. Our data indicates a suitable moment for profit realization. 11:15:25 AM",
+        "read": true,
+        "timestamp": "2023-08-28T17:40:01.765Z"
+    },
+    {
+        "notificationId": 613468,
+        "title": "BUY Alert (AAPL)",
+        "content": "Our analysis suggests a buy opportunity for AAPL. Explore potential growth in your portfolio. 11:15:25 AM",
+        "read": true,
+        "timestamp": "2023-08-28T15:55:02.003Z"
+    },
+    {
+        "notificationId": 835700,
+        "title": "BUY Alert (AAPL)",
+        "content": "Our analysis suggests a buy opportunity for AAPL. Explore potential growth in your portfolio. 11:15:25 AM",
+        "read": true,
+        "timestamp": "2023-08-28T15:35:01.979Z"
+    },
+    {
+        "notificationId": 951329,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 04:25:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:55:00.726Z"
+    },
+    {
+        "notificationId": 986975,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 04:20:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:50:01.122Z"
+    },
+    {
+        "notificationId": 183873,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 04:15:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:45:00.629Z"
+    },
+    {
+        "notificationId": 299385,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 04:10:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:40:01.045Z"
+    },
+    {
+        "notificationId": 607937,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 04:05:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:35:01.498Z"
+    },
+    {
+        "notificationId": 805454,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 04:00:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:30:00.925Z"
+    },
+    {
+        "notificationId": 773992,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:55:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:25:01.351Z"
+    },
+    {
+        "notificationId": 985187,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:50:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:20:00.797Z"
+    },
+    {
+        "notificationId": 874444,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:45:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:15:01.203Z"
+    },
+    {
+        "notificationId": 610579,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:40:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:10:00.629Z"
+    },
+    {
+        "notificationId": 794782,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:35:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:05:01.081Z"
+    },
+    {
+        "notificationId": 772573,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:30:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T22:00:01.564Z"
+    },
+    {
+        "notificationId": 925495,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:25:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:55:00.936Z"
+    },
+    {
+        "notificationId": 717207,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:20:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:50:01.440Z"
+    },
+    {
+        "notificationId": 305984,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:15:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:45:00.820Z"
+    },
+    {
+        "notificationId": 742905,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:10:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:40:01.296Z"
+    },
+    {
+        "notificationId": 953119,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:05:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:35:00.709Z"
+    },
+    {
+        "notificationId": 167440,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 03:00:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:30:01.136Z"
+    },
+    {
+        "notificationId": 884569,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:55:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:25:00.561Z"
+    },
+    {
+        "notificationId": 376655,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:50:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:20:01.013Z"
+    },
+    {
+        "notificationId": 976948,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:45:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:15:01.508Z"
+    },
+    {
+        "notificationId": 917112,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:40:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:10:00.931Z"
+    },
+    {
+        "notificationId": 711419,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:35:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:05:01.295Z"
+    },
+    {
+        "notificationId": 653568,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:30:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T21:00:00.723Z"
+    },
+    {
+        "notificationId": 251199,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:25:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:55:01.223Z"
+    },
+    {
+        "notificationId": 997740,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:20:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:50:00.595Z"
+    },
+    {
+        "notificationId": 852343,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:15:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:45:01.082Z"
+    },
+    {
+        "notificationId": 236985,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:10:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:40:01.514Z"
+    },
+    {
+        "notificationId": 968643,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:05:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:35:00.949Z"
+    },
+    {
+        "notificationId": 335170,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 02:00:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:30:01.376Z"
+    },
+    {
+        "notificationId": 156992,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:55:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:25:00.831Z"
+    },
+    {
+        "notificationId": 579649,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:50:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:20:01.267Z"
+    },
+    {
+        "notificationId": 187319,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:45:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:15:00.800Z"
+    },
+    {
+        "notificationId": 204913,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:40:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:10:01.139Z"
+    },
+    {
+        "notificationId": 399124,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:35:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:05:00.593Z"
+    },
+    {
+        "notificationId": 740974,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:30:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T20:00:01.015Z"
+    },
+    {
+        "notificationId": 915440,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:25:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:55:01.465Z"
+    },
+    {
+        "notificationId": 721852,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:20:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:50:00.909Z"
+    },
+    {
+        "notificationId": 846776,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:15:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:45:01.453Z"
+    },
+    {
+        "notificationId": 267909,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:10:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:40:00.732Z"
+    },
+    {
+        "notificationId": 362708,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:05:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:35:01.221Z"
+    },
+    {
+        "notificationId": 85291,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 01:00:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:30:00.691Z"
+    },
+    {
+        "notificationId": 720401,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:55:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:25:01.124Z"
+    },
+    {
+        "notificationId": 34364,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:50:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:20:00.590Z"
+    },
+    {
+        "notificationId": 86961,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:45:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:15:01.037Z"
+    },
+    {
+        "notificationId": 706702,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:40:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:10:01.413Z"
+    },
+    {
+        "notificationId": 922757,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:35:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:05:00.866Z"
+    },
+    {
+        "notificationId": 813170,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:30:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T19:00:01.275Z"
+    },
+    {
+        "notificationId": 732365,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:25:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:55:00.835Z"
+    },
+    {
+        "notificationId": 377136,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:20:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:50:01.180Z"
+    },
+    {
+        "notificationId": 233607,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:15:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:45:00.583Z"
+    },
+    {
+        "notificationId": 809941,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:10:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:40:01.029Z"
+    },
+    {
+        "notificationId": 986641,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:05:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:35:01.495Z"
+    },
+    {
+        "notificationId": 288949,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 27/08/2023, 12:00:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:30:00.958Z"
+    },
+    {
+        "notificationId": 573265,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:55:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:25:01.411Z"
+    },
+    {
+        "notificationId": 345421,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:50:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:20:00.808Z"
+    },
+    {
+        "notificationId": 21463,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:45:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:15:01.277Z"
+    },
+    {
+        "notificationId": 63577,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:40:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:10:00.656Z"
+    },
+    {
+        "notificationId": 169032,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:35:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:05:01.073Z"
+    },
+    {
+        "notificationId": 690044,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:30:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T18:00:00.658Z"
+    },
+    {
+        "notificationId": 367123,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:25:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:55:01.006Z"
+    },
+    {
+        "notificationId": 795611,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:20:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:50:01.504Z"
+    },
+    {
+        "notificationId": 531487,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:15:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:45:00.859Z"
+    },
+    {
+        "notificationId": 997441,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:10:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:40:01.399Z"
+    },
+    {
+        "notificationId": 377974,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:05:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:35:00.729Z"
+    },
+    {
+        "notificationId": 571717,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 11:00:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:30:01.265Z"
+    },
+    {
+        "notificationId": 825950,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:55:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:25:00.601Z"
+    },
+    {
+        "notificationId": 373205,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:50:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:20:01.036Z"
+    },
+    {
+        "notificationId": 993911,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:45:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:15:01.439Z"
+    },
+    {
+        "notificationId": 15163,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:40:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:10:00.958Z"
+    },
+    {
+        "notificationId": 19122,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:35:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:05:01.391Z"
+    },
+    {
+        "notificationId": 377473,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:30:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T17:00:00.821Z"
+    },
+    {
+        "notificationId": 638044,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:25:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:55:01.193Z"
+    },
+    {
+        "notificationId": 444459,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:20:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:50:00.774Z"
+    },
+    {
+        "notificationId": 271380,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:15:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:45:01.099Z"
+    },
+    {
+        "notificationId": 999750,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:10:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:40:00.713Z"
+    },
+    {
+        "notificationId": 788442,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:05:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:35:00.970Z"
+    },
+    {
+        "notificationId": 699662,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 10:00:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:30:01.582Z"
+    },
+    {
+        "notificationId": 820361,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:55:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:25:00.898Z"
+    },
+    {
+        "notificationId": 845668,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:50:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:20:01.297Z"
+    },
+    {
+        "notificationId": 526848,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:45:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:15:00.781Z"
+    },
+    {
+        "notificationId": 155895,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:40:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:10:01.111Z"
+    },
+    {
+        "notificationId": 516420,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:35:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:05:00.588Z"
+    },
+    {
+        "notificationId": 993834,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:30:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T16:00:01.101Z"
+    },
+    {
+        "notificationId": 549976,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:25:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:55:01.496Z"
+    },
+    {
+        "notificationId": 787878,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:20:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:50:00.972Z"
+    },
+    {
+        "notificationId": 303860,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:15:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:45:01.373Z"
+    },
+    {
+        "notificationId": 274338,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:10:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:40:00.850Z"
+    },
+    {
+        "notificationId": 828493,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:05:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:35:01.199Z"
+    },
+    {
+        "notificationId": 137694,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 09:00:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:30:00.711Z"
+    },
+    {
+        "notificationId": 921099,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:55:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:25:01.169Z"
+    },
+    {
+        "notificationId": 905636,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:50:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:20:00.516Z"
+    },
+    {
+        "notificationId": 846981,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:45:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:15:01.075Z"
+    },
+    {
+        "notificationId": 509083,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:40:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:10:01.421Z"
+    },
+    {
+        "notificationId": 791057,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:35:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:05:00.891Z"
+    },
+    {
+        "notificationId": 509884,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:30:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T15:00:01.359Z"
+    },
+    {
+        "notificationId": 625232,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:25:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:55:00.721Z"
+    },
+    {
+        "notificationId": 411301,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:20:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:50:01.353Z"
+    },
+    {
+        "notificationId": 679450,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:15:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:45:00.598Z"
+    },
+    {
+        "notificationId": 319015,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:10:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:40:01.099Z"
+    },
+    {
+        "notificationId": 62208,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:05:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:35:01.538Z"
+    },
+    {
+        "notificationId": 559529,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 08:00:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:30:00.953Z"
+    },
+    {
+        "notificationId": 911477,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:55:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:25:01.398Z"
+    },
+    {
+        "notificationId": 878846,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:50:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:20:00.838Z"
+    },
+    {
+        "notificationId": 930564,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:45:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:15:01.291Z"
+    },
+    {
+        "notificationId": 573501,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:40:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:10:00.627Z"
+    },
+    {
+        "notificationId": 335784,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:35:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:05:01.183Z"
+    },
+    {
+        "notificationId": 438800,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:30:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T14:00:00.610Z"
+    },
+    {
+        "notificationId": 990512,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:25:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:55:00.997Z"
+    },
+    {
+        "notificationId": 67794,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:20:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:50:01.519Z"
+    },
+    {
+        "notificationId": 199145,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:15:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:45:01.134Z"
+    },
+    {
+        "notificationId": 113965,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:10:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:40:01.309Z"
+    },
+    {
+        "notificationId": 629046,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:05:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:35:00.743Z"
+    },
+    {
+        "notificationId": 713395,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 07:00:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:30:01.217Z"
+    },
+    {
+        "notificationId": 239384,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 06:55:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:25:00.759Z"
+    },
+    {
+        "notificationId": 522532,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 06:50:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:20:01.031Z"
+    },
+    {
+        "notificationId": 720809,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 06:45:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:15:01.521Z"
+    },
+    {
+        "notificationId": 578380,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 06:40:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:10:00.896Z"
+    },
+    {
+        "notificationId": 629768,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 06:35:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:05:01.374Z"
+    },
+    {
+        "notificationId": 99106,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 06:30:00 pm UTC",
+        "read": true,
+        "timestamp": "2023-08-26T13:00:01.394Z"
+    },
+    {
+        "notificationId": 132921,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 04:25:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:55:00.773Z"
+    },
+    {
+        "notificationId": 246064,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 04:20:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:50:01.113Z"
+    },
+    {
+        "notificationId": 768406,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 04:15:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:45:00.557Z"
+    },
+    {
+        "notificationId": 532234,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 04:10:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:40:01.064Z"
+    },
+    {
+        "notificationId": 852598,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 04:05:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:35:01.453Z"
+    },
+    {
+        "notificationId": 155247,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 04:00:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:30:00.812Z"
+    },
+    {
+        "notificationId": 113042,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:55:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:25:01.334Z"
+    },
+    {
+        "notificationId": 660485,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:50:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:20:00.723Z"
+    },
+    {
+        "notificationId": 749356,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:45:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:15:01.114Z"
+    },
+    {
+        "notificationId": 898872,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:40:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:10:00.581Z"
+    },
+    {
+        "notificationId": 283960,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:35:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:05:01.023Z"
+    },
+    {
+        "notificationId": 11589,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:30:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T22:00:01.570Z"
+    },
+    {
+        "notificationId": 200237,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:25:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:55:00.923Z"
+    },
+    {
+        "notificationId": 234802,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:20:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:50:01.359Z"
+    },
+    {
+        "notificationId": 40049,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:15:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:45:00.769Z"
+    },
+    {
+        "notificationId": 714717,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:10:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:40:01.222Z"
+    },
+    {
+        "notificationId": 339504,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:05:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:35:00.566Z"
+    },
+    {
+        "notificationId": 627741,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 03:00:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:30:01.068Z"
+    },
+    {
+        "notificationId": 648586,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:55:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:25:01.547Z"
+    },
+    {
+        "notificationId": 39341,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:50:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:20:00.871Z"
+    },
+    {
+        "notificationId": 392370,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:45:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:15:01.427Z"
+    },
+    {
+        "notificationId": 473954,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:40:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:10:00.770Z"
+    },
+    {
+        "notificationId": 756283,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:35:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:05:01.241Z"
+    },
+    {
+        "notificationId": 406339,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:30:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T21:00:00.645Z"
+    },
+    {
+        "notificationId": 654020,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:25:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T20:55:01.057Z"
+    },
+    {
+        "notificationId": 36214,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:20:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T20:50:00.562Z"
+    },
+    {
+        "notificationId": 682257,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:15:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T20:45:00.899Z"
+    },
+    {
+        "notificationId": 872269,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:10:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T20:40:01.456Z"
+    },
+    {
+        "notificationId": 690059,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:05:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T20:35:00.848Z"
+    },
+    {
+        "notificationId": 774184,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 02:00:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T20:30:01.297Z"
+    },
+    {
+        "notificationId": 325526,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 01:55:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T20:25:00.775Z"
+    },
+    {
+        "notificationId": 390149,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 01:50:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T20:20:01.202Z"
+    },
+    {
+        "notificationId": 815114,
+        "title": "BUY Alert (AMD)",
+        "content": "Our analysis suggests a buy opportunity for AMD. Explore potential growth in your portfolio. 26/08/2023, 01:45:00 am UTC",
+        "read": true,
+        "timestamp": "2023-08-25T20:15:00.570Z"
+    }
+]
