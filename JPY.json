@@ -1,0 +1,34 @@
+{
+    "tracks": [
+        {
+            "_id": "64e860d80aa5ed413716fd0e",
+            "symbol": "8306.T",
+            "country": "JPY",
+            "emails": [
+                "nishaanthms1@gmail.com"
+            ],
+            "history": [],
+            "__v": 2
+        },
+        {
+            "_id": "64e860eb0aa5ed413716fd13",
+            "symbol": "8697.T",
+            "country": "JPY",
+            "emails": [
+                "nishaanthms1@gmail.com"
+            ],
+            "history": [],
+            "__v": 1
+        },
+        {
+            "_id": "64e8611a0aa5ed413716fd18",
+            "symbol": "4755.T",
+            "country": "JPY",
+            "emails": [
+                "nishaanthms1@gmail.com"
+            ],
+            "history": [],
+            "__v": 0
+        }
+    ]
+}
