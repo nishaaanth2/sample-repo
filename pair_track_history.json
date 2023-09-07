@@ -3,7 +3,7 @@
     "symbol": "AMD",
     "stockname":"AMD adsf asdf asdhf ss",
     "updatedTimestamp": "2023-09-07 2:55 AM",
-    "percent": "2%"
+    "percent": "2%",
     "values": [
       {
         "type": "BUY",
@@ -25,7 +25,7 @@
     "symbol": "AAPL",
     "stockname":"Apple Incopratieadasd as kca",
     "updatedTimestamp": "2023-09-07 3:30 AM",
-    "percent":null
+    "percent":null,
     "values": [
       {
         "type": "BUY",
