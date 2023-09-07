@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "AMD",
+    "updatedTimestamp": "2023-09-07 2:55 AM",
+    "percent": "2%"
+    "values": [
+      {
+        "type": "BUY",
+        "value": {
+          "close": 110,
+          "timestamp": "2023-09-07 1:45 AM"
+        }
+      },
+      {
+        "type": "SELL",
+        "value": {
+          "close": 110,
+          "timestamp": "2023-09-07 2:55 AM"
+        }
+      }
+    ]
+  },
+  {
+    "symbol": "AAPL",
+    "updatedTimestamp": "2023-09-07 3:30 AM",
+    "percent":null
+    "values": [
+      {
+        "type": "BUY",
+        "value": {
+          "close": 150,
+          "timestamp": "2023-09-07 3:00 AM"
+        }
+      },
+      {
+        "type": "SELL",
+        "value": null
+      }
+    ]
+  }
+]
